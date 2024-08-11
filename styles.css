@@ -236,7 +236,8 @@ nav .right a span {
 }
 
 /* Responsive section*/
-||\/ @media (max-width: 850px) {
+
+@media (max-width: 850px) {
   /* SECTION 1 */
   .hero-section .text h2 {
     font-size: 35px;
