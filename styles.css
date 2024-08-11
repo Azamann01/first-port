@@ -23,7 +23,7 @@ a {
   color: var(--link-color);
   text-decoration: none;
 }
-/*NAVBAR*/
+/* ------- NAVBAR ------*/
 nav {
   display: flex;
   justify-content: space-between;
@@ -54,7 +54,8 @@ nav .right a span {
   margin-left: 5px;
 }
 
-/*SECTION 1*/
+/*-------- SECTION 1 ---------*/
+
 .hero-section {
   display: flex;
   justify-content: space-between;
@@ -98,7 +99,8 @@ nav .right a span {
   border-radius: 50%;
 }
 
-/* Section 2: skils */
+/*-------- Section 2: skils -------*/
+
 .skills-section {
   padding: 0 50px;
   margin-bottom: 100px;
@@ -141,7 +143,8 @@ nav .right a span {
   font-size: 18px;
 }
 
-/* section 3: Testimony*/
+/*---- Section 3: Testimony -----*/
+
 .testimony-section {
   padding: 0 50px;
   margin-bottom: 100px;
@@ -235,7 +238,7 @@ nav .right a span {
   margin: 10px;
 }
 
-/* Responsive section*/
+/*--------Responsive section-----------*/
 
 @media (max-width: 850px) {
   /* SECTION 1 */
